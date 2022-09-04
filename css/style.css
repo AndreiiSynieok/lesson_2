@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+}
+p{
+	padding: 5px 5px;
+}
+h3{
+	margin: 10px;
+}
+.sign{
+	float: right;
+	border: 1px solid #333;
+	padding: 7px;
+	margin: 10px 0px 5px 5px;
+	background: #f0f0f0;
+}
+.sign_right{
+	float: left;
+	border: 1px solid #333;
+	padding:  7px;
+	margin: 1px 0px 5px 5px;
+	background: #f0f0f0;
+}
+.coat{
+	height: 150px;
+}
+.mu{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
